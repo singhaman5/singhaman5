@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">Computer Science Student | DSA | Web Development | AI Enthusiast</h3>
 
-<img src="[https://user-images.githubusercontent.com/74038190/212749726-6a6b2b56-7f74-4e8e-9b2a-3e2de3f8c8c8.gif" width="100%](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)">
+<img src="https://user-images.githubusercontent.com/74038190/212749726-6a6b2b56-7f74-4e8e-9b2a-3e2de3f8c8c8.gif" width="100%">
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
