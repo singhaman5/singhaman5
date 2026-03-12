@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">Computer Science Student | DSA | Web Development | AI Enthusiast</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/7VbK6cFXvSgBpFMnfC/giphy.gif" width="700">
-</p>
+<img src="https://media.giphy.com/media/7VbK6cFXvSgBpFMnfC/giphy.gif" width="100%">
 
 - 🌱 Learning DSA
 - 💻 Web Developer
